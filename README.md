@@ -1,4 +1,4 @@
-# Interactive Quiz App: A React, Vite, MongoDB, and GraphQL Powered Application
+# Interactive Quiz App: A React, MongoDB, and GraphQL Powered Application
 
 # Description:
 
